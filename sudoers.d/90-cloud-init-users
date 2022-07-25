@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.2-0ubuntu1~20.04.3 on Thu, 21 Jul 2022 15:31:41 +0000
+
+# User rules for kosmatykh
+kosmatykh ALL=(ALL) NOPASSWD:ALL
